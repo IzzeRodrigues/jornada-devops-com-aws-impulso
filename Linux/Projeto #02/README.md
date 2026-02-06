@@ -4,5 +4,5 @@ https://web.dio.me/track/jornada-devops-com-aws-impulso
 Instrutor: Denilson Bonatti.
 Conhecendo o Sistema Operacional Linux.
 
-Projeto 1: Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+Projeto 2: Infraestrutura como Código: Script de Provisionamento de um Servidor Web (Apache)
 
